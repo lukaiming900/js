@@ -2,59 +2,59 @@
     "plugins": [
         {
             "name": "5sing",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/5sing.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/5sing.js"
         },
         {
             "name": "bilibili",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/bilibili.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/bilibili.js"
         },
         {
             "name": "快手",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/kuaishou.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/kuaishou.js"
         },
         {
             "name": "酷狗",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/kugou.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/kugou.js"
         },
         {
             "name": "酷我",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/kuwo.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/kuwo.js"
         },
         {
             "name": "猫耳FM",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/maoerfm.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/maoerfm.js"
         },
         {
             "name": "咪咕",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/migu.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/migu.js"
         },
         {
             "name": "网易云",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/netease.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/netease.js"
         },
         {
             "name": "全民K歌",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/qmkg.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/qmkg.js"
         },
         {
             "name": "千千音乐",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/qianqian.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/qianqian.js"
         },
         {
             "name": "QQ音乐",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/qqmusic.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/qqmusic.js"
         },
         {
             "name": "喜马拉雅",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/xmly.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/xmly.js"
         },
         {
             "name": "音悦台",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/yinyuetai.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/yinyuetai.js"
         },
         {
             "name": "Youtube",
-            "url": "https://codeberg.org/lukaiming900/tv/raw/branch/main/youtube.js"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/youtube.js"
         }
     ]
 }
