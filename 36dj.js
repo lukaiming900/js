@@ -112,19 +112,19 @@ async function getMediaSource(musicItem, quality) {
 
   
 module.exports = {
-  /** 用来说明插件信息的属�? */
+  /** ç”¨æ¥è¯´æ˜Žæ’ä»¶ä¿¡æ¯çš„å±žæ€? */
   platform: "36DJ",
-  version: "0.0.2", // 插件版本�?
+  version: "0.0.2", // æ’ä»¶ç‰ˆæœ¬å?
   hints: {
         importMusicSheet: [
-            "36dj.com����",
+            "36dj.com",
 
         ],
     },
     primaryKey: ["id"],
     cacheControl: "no-store",
     srcUrl: "http://tv.zanlagua.com/360dj.js",
-  /** 供给软件在合适的时机调用的函�? */
+  /** ä¾›ç»™è½¯ä»¶åœ¨åˆé€‚çš„æ—¶æœºè°ƒç”¨çš„å‡½æ•? */
 
   getTopLists,
   getTopListDetail,
