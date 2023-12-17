@@ -53,8 +53,14 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/yinyuetai.js"
         },
         {
+            "name": "36dj",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/36dj.js"
+        },
+        {
             "name": "Youtube",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lukaiming900/js/main/youtube.js"
         }
+
+
     ]
 }
