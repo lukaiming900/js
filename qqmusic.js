@@ -630,7 +630,7 @@ async function getMusicSource(musicItem, quality) {
     }
 }
 module.exports = {
-    platform: "QQ闊充箰",
+    platform: "QQ音乐",
     version: "0.2.1",
     order: 18,
     srcUrl: "http://adad23u.appinstall.life/dist/qq/index.js",
