@@ -2,7 +2,7 @@
     "plugins": [
         {
             "name": "5sing",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/5sing/index.js"
+            "url": "http://adad23u.appinstall.life/dist/5sing/index.js"
         },
         {
             "name": "Audiomack",
@@ -10,7 +10,7 @@
         },
         {
             "name": "bilibili",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js"
+            "url": "http://adad23u.appinstall.life/dist/bilibili/index.js"
         },
         {
             "name": "快手",
@@ -18,7 +18,7 @@
         },
         {
             "name": "酷狗",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/kugou/index.js"
+            "url": "http://adad23u.appinstall.life/dist/kugou/index.js"
         },
         {
             "name": "酷我",
@@ -26,11 +26,11 @@
         },
         {
             "name": "猫耳FM",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js"
+            "url": "http://adad23u.appinstall.life/dist/maoerfm/index.js"
         },
         {
             "name": "咪咕",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/migu/index.js"
+            "url": "http://adad23u.appinstall.life/dist/migu/index.js"
         },
         {
             "name": "Navidrome",
@@ -38,16 +38,16 @@
         },
         {
             "name": "网易云",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/netease/index.js"
+            "url": "http://adad23u.appinstall.life/dist/netease/index.js"
         },
         
         {
             "name": "全民K歌",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qmkg/index.js"
+            "url": "http://adad23u.appinstall.life/dist/qmkg/index.js"
         },
         {
             "name": "千千音乐",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/qianqian/index.js"
+            "url": "http://adad23u.appinstall.life/dist/qianqian/index.js"
         },
         {
             "name": "QQ音乐",
@@ -55,7 +55,7 @@
         },
         {
             "name": "喜马拉雅",
-            "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/xmly/index.js"
+            "url": "http://adad23u.appinstall.life/dist/xmly/index.js"
         },
         {
             "name": "音悦台",
